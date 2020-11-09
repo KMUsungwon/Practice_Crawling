@@ -9,3 +9,8 @@ pip install requests # 설치하기
 ```
 pip install bs4 # 설치하기
 ```
+
+## Selenium Framework
+```
+pip install selenium
+```
